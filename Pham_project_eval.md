@@ -1,5 +1,5 @@
-### Hanh Pham
-### 20 February 2017
+#### Hanh Pham
+#### 20 February 2017
 # Unpacking the Work: A Project Review of Unpacking Manuel's Tavern
 
 ## What is Manuel's Tavern?
@@ -14,3 +14,10 @@ Manuel's Tavern is located just outside of downtown Atlanta, in the vibrant Deca
 4. Experimenting with other visualizing, like 3D renderings
 
 Dusseault and her team envision the final product to be a gigapan photograph in which site visitors can navigate around, and click on visual artifacts to read more about the artifact and its historical component. 
+
+## Reviewing the Project
+### Concept & Content
+The purpose of the project is clearly articulated on the site, along with the phases in which the project will be carried out. The team is currently still processing images and data, so there is no actual imagery yet to be displayed. There is no argument, because the project strives to digitally document the existing visual artifacts displayed in Manuel's Tavern. The creators are not collecting the data to advance an overall argument or anything, but to display the history of this unofficial landmark location. Furthermore, because the creators are still gathering data, they are requesting for people to send in information they may have regarding a visual artifact. For instance, I may know the story of the baseball bat that is displayed in the tavern, so I would send in the story and after vetting by Manuel's historians and by educators, my story would be attached to the bat in the final gigapan photograph once the site is completed. 
+### Design & Technique
+Like I previously mentioned, the project is not complete so I can only critique what is listed as the soon to be design. I believe an interactive gigapan photograph is an innovative and unique way to display historical data. I believe this method will be extremely effective at supporting the purpose of the site. It is hard to judge if there is room for improvement, because the website is not complete. There is an advantage in this being a digital project, because the project can constantly be updated without issue, which would not be possible if the project was in a paper format or audio format. 
+### Collaboration & Documentation
